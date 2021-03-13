@@ -14,7 +14,7 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 ### `Criteria`
   • Build a simple UI 
   • Focus on making each Component portable, scalable, and Abstracted
-  • Focus on getting the correct user for admin priviledges
+  • Focus on getting the correct user for admin features. Such as edit, add, delete, and create movie.
   • Focus on having a single source of truth within each component
 
 ### `Summary`
