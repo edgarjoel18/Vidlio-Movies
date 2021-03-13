@@ -18,5 +18,5 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
   • Focus on having a single source of truth within each component
 
 ### `Summary`
-Although the backend is 90% complete there is a few config files that need to be adjusted before hosting it on heroku. However, the frontend is fully implemented and I decided to use the most modern tecnologies for this project. This includes React for the frontend for its fimarility with HTML and Javascript and Express.js for the backend because it is easy to use and one of my favorites. I decided to use more modern React features such as hooks and Context in my next project because I wanted to review a bit of React syntax before the common use of function components and useHooks. 
+Although the backend is 90% complete there is a few config files that need to be adjusted before hosting it on heroku. However, the frontend is fully implemented and I decided to use the most modern tecnologies for this project. This includes React for the frontend for its ease of use with HTML and Javascrip. Express.js was used for the backend because it is easy to use and one of my favorites. I decided to use more modern React features such as hooks and Context in my next project because I wanted to review a bit of React syntax before the common use of function components and useHooks. 
   
