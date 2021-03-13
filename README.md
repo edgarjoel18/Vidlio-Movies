@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 ### `Tasks`
-Implement a web application that allows a General User to browse available movies for and have the option to like them. A user can be an admin user therefore, they have authorization to edit each movie. The data should be recieved from a mongo-DB database.
+Implement a web application that allows a General User to browse available movies and have the option to like them. A user can be an admin user therefore, they have authorization to edit each movie. The data should be recieved from a mongo-DB database.
 
 ### `npm test`
 
